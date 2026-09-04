@@ -1,4 +1,4 @@
-# Chèn biểu tượng 🪑 Image-to-3D: Zero123++ LoRA Fine-tuning for Chair Generation
+ 🪑 Image-to-3D: Zero123++ LoRA Fine-tuning for Chair Generation
 
 [![Demo](https://img.shields.io/badge/HuggingFace-Demo-yellow)](https://huggingface.co/spaces/kokonut213/zero123-chair-demo)
 
