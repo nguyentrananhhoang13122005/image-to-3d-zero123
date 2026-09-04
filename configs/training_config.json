@@ -1,0 +1,23 @@
+{
+  "lora": {
+    "rank": 8,
+    "alpha": 1.0
+  },
+  "dataset": {
+    "total": 600,
+    "train": 480,
+    "val": 60,
+    "test": 60
+  },
+  "training": {
+    "epochs": 15,
+    "batch_size": 2,
+    "lr": 5e-05,
+    "gpu": "A10 24GB"
+  },
+  "results": {
+    "best_val_loss": 0.0194,
+    "best_epoch": 11,
+    "test_loss": 0.0293
+  }
+}
